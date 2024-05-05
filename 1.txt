@@ -1,0 +1,28 @@
+How to add a folder in git ignore file
+How to ignore a file
+How to ignore one file inside a folder
+nvm use v
+nvm install v
+npx tsc
+npm install --save-dev --save-exact --prettier
+npx prettier . --check
+npx prettier . --write
+
+install prettier plugin install
+by default prettier version more than 3 automatically ignore all the file and folder which is inside gitignore
+prettier format style of your code file
+Eslint static code analyzer.if there is nay issue in your code then it will tell in development
+Eslint check the quality of code
+
+eslint configuration
+npm install --save-dev eslint-config-prettier(to avoid prettier and eslint)
+eslint plugin
+eslint official site for rules.
+
+// "lint":"eslint .",
+    // "lint:fix":"eslint . --fix"
+
+eslint work with the help of githooks husky
+by default git hook do formatting and linting on whole project
+lint stage
+  
