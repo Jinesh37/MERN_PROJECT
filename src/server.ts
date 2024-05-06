@@ -1,4 +1,3 @@
-function login(username: number): number {
-  return username;
-}
-login(2);
+import {Config} from "./config/index";
+
+console.log('PORT',Config.PORT);
